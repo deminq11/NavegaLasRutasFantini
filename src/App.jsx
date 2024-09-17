@@ -1,7 +1,8 @@
-import Navbar from "./components/NavBar"
-import ItemList from "./components/ItemListContainer"
+import Navbar from "./components/Navbar/NavBar"
+import ItemListContainer from "./components/items/ItemListContainer"
+import ItemDetailContainer from "./components/items/ItemDetailContainer"
 import { useEffect } from "react";
-import { useLocation } from "react-router-dom";
+import { Route, Routes, useLocation } from "react-router-dom";
 import "preline/preline";
 
 function App() {
@@ -16,7 +17,11 @@ function App() {
   return (
     <>
       <Navbar/>
-      <ItemList greeting={"Bienvenidos!!"}/>
+      <Routes>
+        <Route path="/" element={<ItemListContainer/>}/>
+        <Route path="/category/:id" element={<ItemListContainer/>}/>
+        <Route path="/product/:id" element={<ItemDetailContainer/>}/>
+      </Routes>
     </>
   )
 }

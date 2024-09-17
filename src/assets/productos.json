@@ -1,0 +1,80 @@
+[
+    {
+    "id": 1,
+    "name": "Ornitorrinco Austral",
+    "description": "Este ornitorrinco tiene un pelaje marrón oscuro, con una capa densa para resistir las frías aguas de Australia. Su pico es relativamente ancho y plano.",
+    "price":"$3500",
+    "stock": 3,
+    "characteristics":["marron","mediano","templado"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f2/Platypus.jpg?20121020034816",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ornithorhynchus_anatinus_326485230.jpg/800px-Ornithorhynchus_anatinus_326485230.jpg?20231031095440",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Duck-billed_Platypus_%28Ornithorhynchus_anatinus%29_%289995351303%29.jpg/800px-Duck-billed_Platypus_%28Ornithorhynchus_anatinus%29_%289995351303%29.jpg?20150606222331"
+    ]
+  },
+  {
+    "id":2,
+    "name": "Ornitorrinco de los Pantanos",
+    "description": "Caracterizado por su pelaje grisáceo y su habilidad para nadar en aguas turbias. Su cuerpo es más delgado en comparación con otras variedades.",
+    "characteristics":["gris","chico", "calido"],
+    "price":"$1000",
+    "stock": 15,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXsBh3pdK75CMd1br_ic0XGi7xwiTaycBCIw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5L3htcFnMHiWj1mobHa3DglyIoFtcK4QrA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvUO-2oNHmMTkRO-GGpnh4O3SZd444Rbagg&s"
+    ]
+  },
+  {
+    "id":3,
+    "name": "Ornitorrinco del Río Sureño",
+    "description": "Este ornitorrinco tiene un pelaje gris y una cola robusta, diseñada para almacenar grasa durante las temporadas frías.",
+    "characteristics":["gris", "grande", "frio"],
+    "price":"$2500",
+    "stock": 5,
+    "images": [
+      "https://uvn-brightspot.s3.amazonaws.com/assets/vixes/btg/curiosidades.batanga.com/files/6-datos-sorprendentes-sobre-el-ornitorrinco-uno-de-los-animales-mas-espectaculares-del-mundo-1.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYY3sJxjxHif4LqUaG6mVniXI6LfYFDR6-h5S6Sb4UstXHUnvmuK4Ci8mf-7Nq-4umJQ&usqp=CAU",
+      "https://pbs.twimg.com/media/CcW22tdUYAApUtt.jpg"
+    ]
+  },
+  {
+    "id":4,
+    "name": "Ornitorrinco Gigante",
+    "description": "Una especie de mayor tamaño, con un cuerpo robusto y un pico más largo que le permite capturar presas en aguas profundas.",
+    "characteristics":["marron", "grande","templado"],
+    "price":"$4000",
+    "stock": 2,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ornithorhynchus_anatinus_%28AM_LM207%29.jpg/800px-Ornithorhynchus_anatinus_%28AM_LM207%29.jpg?20180105221242",
+      "https://upload.wikimedia.org/wikipedia/commons/d/da/Platypus_%28Ornithorhynchus_anatinus%29%2C_Natural_History_Museum%2C_London%2C_Mammals_Gallery.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Platypus_-_Flickr_-_jens_kuu.jpg/800px-Platypus_-_Flickr_-_jens_kuu.jpg?20200628061124"
+    ]
+  },
+  {
+    "id":5,
+    "name": "Ornitorrinco de Montaña",
+    "description": "Este ornitorrinco tiene un pelaje espeso y oscuro, adaptado para soportar temperaturas bajas en altitudes más elevadas.",
+    "characteristics":["marron", "mediano", "frio"],
+    "price":"$7000",
+    "stock": 1,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLRexHfNqOmb-o_3aWvlQva4vr9KiB_pXlQg&s",
+        "https://p4.wallpaperbetter.com/wallpaper/306/864/17/platypus-swim-look-wallpaper-preview.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/32/Ornithorhynchus.jpg"
+    ]
+  },
+  {
+    "id":6,
+    "name": "Ornitorrinco de Agua Dulce",
+    "description": "De tamaño más pequeño, se adapta a los ríos de agua dulce con un pelaje impermeable y un pico sensible para detectar presas en el barro.",
+    "characteristics":["marron", "chico", "templado"],
+    "price":"$2000",
+    "stock": 7,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/66/Ornithorhynchus_anatinus_-_in_water.jpg?20081125161107",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Platypus_floating_in_water_-_DPLA_-_368554fa97b90a1b5f40a70a95bdccad.jpg/800px-Platypus_floating_in_water_-_DPLA_-_368554fa97b90a1b5f40a70a95bdccad.jpg?20220323165237",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Platypus_swimming.jpg/800px-Platypus_swimming.jpg?20180527044018"
+    ]
+  }
+]
