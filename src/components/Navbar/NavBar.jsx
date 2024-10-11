@@ -47,12 +47,6 @@ function NavBar(){
               </div>
             </div>
           </div>
-          <Link
-            className={linkStyles}
-            to="/"
-          >
-            User
-          </Link>
           <CartWidget/>
         </div>
       </nav>
